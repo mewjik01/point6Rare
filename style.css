@@ -1,0 +1,73 @@
+.navbar-brand{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+.box{
+    background-image: url(restro.jpg);
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+}
+.text{
+   padding-top: 150px;
+   padding-left: 50px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: larger;
+   
+}
+.btn{
+    padding-left: 100px;
+}
+.box2{
+    width: 100%;
+    height: 1300px; 
+}
+.card{
+    margin: 50px;
+}
+.box2 h1{
+    font-family: cursive;
+}
+.card-img-top{
+   width: 100%; 
+   height: 200px;
+   object-fit: cover;
+}
+.box2 div h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box2 div p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box2 div a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box3 img{
+    width: 100px;
+    
+}
+.box3{
+    width: 100%;
+    height: 300px;
+}
+.box3 .row{
+    justify-content: center;
+}
+.box3 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box3 p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box4{
+    width: 100%;
+    height: 360px;
+}
+.box4 label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+.box4 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
